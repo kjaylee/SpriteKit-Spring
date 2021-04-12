@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "SpriteKit-Spring",
     platforms: [
-        .iOS(.v8),
+        .iOS(.v11),
         .macOS(.v10_10),
         .tvOS(.v9)
     ],
